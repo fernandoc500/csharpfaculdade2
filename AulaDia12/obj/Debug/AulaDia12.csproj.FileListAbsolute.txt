@@ -1,0 +1,6 @@
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\bin\Debug\AulaDia12.exe.config
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\bin\Debug\AulaDia12.exe
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\bin\Debug\AulaDia12.pdb
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\obj\Debug\AulaDia12.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\obj\Debug\AulaDia12.exe
+c:\users\fernando\documents\visual studio 2015\Projects\AulaDia12\obj\Debug\AulaDia12.pdb

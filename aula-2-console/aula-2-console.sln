@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula-2-console", "aula-2-console.csproj", "{10C0F3FB-00DB-4EAE-9D84-D03FEBD5F0D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arquivo", "..\arquivo\arquivo.csproj", "{94DE23CB-0AA4-4A45-B662-03BD1A24875E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista", "lista\lista.csproj", "{99F05DC5-40A0-4431-BFA1-F9AB34742421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C0F3FB-00DB-4EAE-9D84-D03FEBD5F0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C0F3FB-00DB-4EAE-9D84-D03FEBD5F0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C0F3FB-00DB-4EAE-9D84-D03FEBD5F0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C0F3FB-00DB-4EAE-9D84-D03FEBD5F0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DE23CB-0AA4-4A45-B662-03BD1A24875E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DE23CB-0AA4-4A45-B662-03BD1A24875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DE23CB-0AA4-4A45-B662-03BD1A24875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DE23CB-0AA4-4A45-B662-03BD1A24875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F05DC5-40A0-4431-BFA1-F9AB34742421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F05DC5-40A0-4431-BFA1-F9AB34742421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F05DC5-40A0-4431-BFA1-F9AB34742421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F05DC5-40A0-4431-BFA1-F9AB34742421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

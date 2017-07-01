@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BlogMVC.Models.Post>
+
+@{
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+}
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PostTitulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostCorpo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostAutor)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostTitulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostCorpo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostAutor)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.PostId }) |
+                @Html.ActionLink("Details", "Details", new { id=item.PostId }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.PostId })
+            </td>
+        </tr>
+    }
+    
+    </table>

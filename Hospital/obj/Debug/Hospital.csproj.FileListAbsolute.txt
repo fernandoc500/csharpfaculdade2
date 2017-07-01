@@ -1,0 +1,13 @@
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\Hospital.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\Hospital.dll.config
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.Migrations.initial.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Hospital\obj\Debug\Hospital.Migrations.v5.resources

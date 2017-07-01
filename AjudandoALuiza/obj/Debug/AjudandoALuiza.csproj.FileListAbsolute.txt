@@ -1,0 +1,5 @@
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\AjudandoALuiza\bin\Debug\AjudandoALuiza.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\AjudandoALuiza\bin\Debug\AjudandoALuiza.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\AjudandoALuiza\bin\Debug\AjudandoALuiza.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\AjudandoALuiza\obj\Debug\AjudandoALuiza.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\AjudandoALuiza\obj\Debug\AjudandoALuiza.pdb
